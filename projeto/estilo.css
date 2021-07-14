@@ -1,0 +1,24 @@
+#tudo{
+width:100%;
+margin:0;
+}
+.banner{
+    width:100%;
+    height: auto;
+}
+.img1{
+    width:100%;
+    height:250px;
+}
+.card{
+    width:21.5%;
+    height:auto;
+    margin:15px;
+    border:solid 1px gray;
+    border-radius:20px;
+    float:left;
+}
+p{
+    padding:10px;
+    
+}
